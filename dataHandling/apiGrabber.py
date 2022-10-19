@@ -33,4 +33,4 @@ def update_prices():
         f.close()
 
 
-update_prices()
+#update_prices()
